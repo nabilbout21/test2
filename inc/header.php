@@ -32,7 +32,7 @@
 <body oncontextmenu="return false;">
 <header>
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar z-depth-5">
-        <a class="brand" href="index.php"><img src="imgs/small_logo.png" style="max-width:200px;"/></a>
+        <a class="brand" href="index.php"><img src="https://d2j1wkp1bavyfs.cloudfront.net/legacy/assets/moviefone-logo-original-web-8bit.png" style="max-width:200px;"/></a>
     </nav>
 </header>
 <!-- ================================================================= -->
