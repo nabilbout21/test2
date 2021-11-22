@@ -7,7 +7,7 @@
   <div class="s006">
     <form method="post" action="moviesresults.php" id="searchsubmit">
       <div id="dontfuck" class="switchform">
-        <p class="text-center" href="index.php"><img src="https://i.ibb.co/svgZRTd/IMG-20211122-004449.png" style="max-width:300px;"/></p>
+        <p class="text-center" href="index.php"><img src="/img/big_logo.png" style="max-width:300px;"/></p>
         <fieldset>
             <legend>Download any Movie for free</legend>
             <p class="text-center sublegend">Just enter the name of the movie you want and click START button to get it for free</p>
