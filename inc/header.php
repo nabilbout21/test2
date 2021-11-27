@@ -20,9 +20,12 @@
 	<meta property="og:image:width" content="1280" />
 	<meta property="og:image:height" content="720" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:description" content="<?php echo $descrip ; ?>" />
-	<meta name="twitter:title" content="<?php echo $wname ; ?>" />
-	<meta name="twitter:image" content="<?php echo $uri ; ?>/imgs/share.jpg" />
+	<meta name="twitter:description" content="Watch Latest Movies Unlimited for FREE " />
+	<meta name="twitter:title" content="MOVIEFONE " />
+	<meta name="twitter:image" content="https://i.imgur.com/ntkKeiz.png" />
+	
+	
+	
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
 	<link href="https://fonts.googleapis.com/css?family=Poppins:400,800" rel="stylesheet" />
 	<link href="css/bootstrap.min.css" rel="stylesheet" >
