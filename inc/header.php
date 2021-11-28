@@ -6,19 +6,7 @@
     set_time_limit(30);
 ?>
 	<title><?php echo $wname ; ?></title>
-	<meta name="description" content="<?php echo $descrip ; ?>"/>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<link rel="icon" type="image/png" href="imgs/fav.png" />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="<?php echo $wname ; ?>" />
-	<meta property="og:description" content="Watch Latest Movies Unlimited for FREE" />
-	<meta property="og:url" content="https://moviefone.herokuapp.com/" />
-	<meta property="og:site_name" content="<?php echo $wname ; ?>" />
-	<meta property="og:image" content="https://i.imgur.com/SXFiFwt.png" />
-	<meta property="og:image:width" content="1280" />
-	<meta property="og:image:height" content="720" />
+	
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:description" content="Watch Latest Movies Unlimited for FREE " />
 	<meta name="twitter:title" content="MOVIEFONE " />
