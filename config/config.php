@@ -5,11 +5,11 @@
 // ================================================================= //
 // ================================================================= //
 
-$uri = 'https://www.sitedialek.com';
+$uri = 'https://moviefone.herokuapp.com/';
 
-$wname = 'smia dial site dialek'; 
+$wname = 'moviefone'; 
 
-$descrip = 'description dial site dialek';  
+$descrip = 'Watch all latest Movies For FREE';  
 
 $cpa_link = 'https://contentlockerdialek.com';  
 
